@@ -1,14 +1,8 @@
 request:
-  method: POST
-  url: /products
+  method: GET
+  url: /products/10
   headers:
     Content-Type: application/json
-  body: |
-    {
-      "name": "Mac mini",
-      "description": "Mac mini computer",
-      "price": "9888.00"
-    }
 
 response:
   status: 200
@@ -21,5 +15,4 @@ response:
       "description": "Mac mini computer",
       "price": "9888.00"
     }
-
 
