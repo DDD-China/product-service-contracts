@@ -3,6 +3,12 @@ request:
   url: /products/create
   headers:
     Content-Type: application/json
+  body: |
+    {
+      "name": "Mac mini",
+      "description": "Mac mini computer",
+      "price": "9888.00"
+    }
 
 response:
   status: 200
