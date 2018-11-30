@@ -1,6 +1,6 @@
 request:
   method: POST
-  url: /products/create
+  url: /products
   headers:
     Content-Type: application/json
   body: |
