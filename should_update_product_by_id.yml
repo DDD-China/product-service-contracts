@@ -3,10 +3,10 @@ request:
   url: /products/10
   headers:
     Content-Type: application/json
-  body:
+  body: |
     {
-      "name": "phone"
-      "description": "iphone"
+      "name": "phone",
+      "description": "iphone",
       "price": "10000.00"
     }
 
@@ -14,5 +14,5 @@ request:
 response:
   status: 200
   headers:
-    Content-Type: application/json; chartset=UTF-8
+    Content-Type: application/json;chartset=UTF-8
 
