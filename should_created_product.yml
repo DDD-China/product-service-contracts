@@ -1,0 +1,24 @@
+request:
+  method: POST
+  url: /products/create
+  headers:
+    Content-Type: application/json
+  body: |
+    {
+      "name": "Mac mini",
+      "description": "Mac mini computer",
+      "price": "9888.00"
+    }
+
+response:
+  status: 200
+  headers:
+    Content-Type: application/json;charset=UTF-8
+  body: |
+    {
+      "id": 10,
+      "name": "Mac mini",
+      "description": "Mac mini computer",
+      "price": "9888.00"
+    }
+
