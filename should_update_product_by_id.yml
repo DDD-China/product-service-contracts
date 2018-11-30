@@ -2,7 +2,7 @@ request:
   method: PUT
   url: /products/10
   headers:
-    Context-Type: application/json
+    Content-Type: application/json
   body:
     {
       "name": "phone"
@@ -14,5 +14,5 @@ request:
 response:
   status: 200
   headers:
-    Context-Type: application/json; chartset=UTF-8
+    Content-Type: application/json; chartset=UTF-8
 
