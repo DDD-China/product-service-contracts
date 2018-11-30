@@ -13,6 +13,4 @@ request:
 
 response:
   status: 200
-  headers:
-    Content-Type: application/json;chartset=UTF-8
 
