@@ -7,7 +7,8 @@ request:
     {
       "name": "phone",
       "description": "iphone",
-      "price": "10000.00"
+      "price": "10000.00",
+      "color": "Red"
     }
 
 

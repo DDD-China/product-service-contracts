@@ -7,7 +7,8 @@ request:
     {
       "name": "Mac mini",
       "description": "Mac mini computer",
-      "price": "9888.00"
+      "price": "9888.00",
+      "color": "Red"
     }
 
 response:
@@ -19,6 +20,7 @@ response:
       "id": 10,
       "name": "Mac mini",
       "description": "Mac mini computer",
-      "price": "9888.00"
+      "price": "9888.00",
+      "color": "Red"
     }
 
