@@ -17,10 +17,10 @@ response:
         "price": "9888.00"
       },
       {
-        "id": 11,
-        "name": "Mac pro",
-        "description": "Mac pro computer",
-        "price": "21000.00"
+        "id": 20,
+        "name": "iPhone X",
+        "description": "iPhone 2018 new fashion",
+        "price": "8888.00"
       }
     ]
 
